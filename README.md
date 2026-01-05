@@ -1,8 +1,8 @@
-VarPlay – Variable Font Playground
+#VarPlay – Variable Font Playground
 
 VarPlay is a brutalist, client-side sandbox for testing, exploring, and validating variable font files (.ttf, .otf, .woff2). Designed for type design students and professionals, it combines technical inspection with playful typographic experimentation in a single, distraction-free interface.
 
-🚀 Quick Start
+#🚀 Quick Start
 
 Running Locally
 
@@ -22,7 +22,7 @@ VS Code: Use the "Live Server" extension.
 
 Open your browser to http://localhost:8000 (or the port shown in your terminal).
 
-✨ Features
+#✨ Features
 
 1. Drag & Drop Testing
 
@@ -72,7 +72,7 @@ Geometry: Mirror text X or Y.
 
 Atomic Randomizer: Apply variable axis changes per Glyph or Word. Create "waves" of weight, random widths, or inverse bell curves across your text string.
 
-🛠 Project Structure
+#🛠 Project Structure
 
 index.html: The core application containing HTML structure, Tailwind CSS classes, and the main JavaScript logic (font parsing, UI interaction).
 
@@ -82,13 +82,13 @@ manifest.json: Web App Manifest allowing VarPlay to be installed as a desktop ap
 
 sw.js: Service Worker for offline caching capabilities.
 
-📜 License & Credits
+#📜 License & Credits
 
 Author: Pedro Amado (FBAUP / i2ADS / Ligatures SIG) & Gemini Pro 3.0.
 Date: November 25, 2025.
 Version: 1.1
 
-Credits:
+##Credits:
 Developed from original concepts found in:
 
 Font Gauntlet by Dinamo Foundry
