@@ -1,4 +1,4 @@
-#VarPlay – Variable Font Playground
+###VarPlay – Variable Font Playground
 
 VarPlay is a brutalist, client-side sandbox for testing, exploring, and validating variable font files (.ttf, .otf, .woff2). Designed for type design students and professionals, it combines technical inspection with playful typographic experimentation in a single, distraction-free interface.
 
@@ -22,7 +22,7 @@ VS Code: Use the "Live Server" extension.
 
 Open your browser to http://localhost:8000 (or the port shown in your terminal).
 
-#✨ Features
+###✨ Features
 
 1. Drag & Drop Testing
 
